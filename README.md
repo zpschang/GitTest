@@ -1,2 +1,2 @@
 # GitTest
-This is a file change causing a conflict.
+One place to test git commands.
